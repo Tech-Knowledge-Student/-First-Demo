@@ -1,4 +1,4 @@
 # First-Demo
 This is my first git repository.
 <br>
-Author - Dhanshri Chorage
+Author - Dhanshri Chorage (Apna College)
